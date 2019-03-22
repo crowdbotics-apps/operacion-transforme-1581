@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT operacion_transforme_1581.wsgi:application
